@@ -25,10 +25,15 @@ The system uses machine learning models to detect anomalies, forecast energy con
 ## Project Structure
 
 ai_model.py – Machine learning model logic
+
 anomaly_detection.py – Detect abnormal energy patterns
+
 energy_forecast.py – Predict future energy usage
+
 device_simulation.py – Simulate smart home devices
+
 dashboard_ui.py – Streamlit UI dashboard
+
 firebase_config.py – Firebase database connection
 
 ## Installation
