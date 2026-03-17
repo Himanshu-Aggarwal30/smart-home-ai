@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Firebase private key
+serviceAccountKey.json
+
+# OS junk
+.DS_Store
+Thumbs.db
